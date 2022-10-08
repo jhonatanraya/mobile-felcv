@@ -1,5 +1,7 @@
 {
   "name": "felcv",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }

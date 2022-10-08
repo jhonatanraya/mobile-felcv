@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "903665514123",
+    "firebase_url": "https://proyecto-integrador-ii.firebaseio.com",
+    "project_id": "proyecto-integrador-ii",
+    "storage_bucket": "proyecto-integrador-ii.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903665514123:android:e1cf0a2fad84bd154b868e",
+        "android_client_info": {
+          "package_name": "com.felcv.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "903665514123-c3937dhr8v2ngs0iq8im0uvl9pdcft0n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXEJ0Qg5KP4ERAlhb2ozxjeLywn1BPQUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "903665514123-c3937dhr8v2ngs0iq8im0uvl9pdcft0n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
